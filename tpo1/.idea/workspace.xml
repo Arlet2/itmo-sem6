@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2418c32e-6488-4e62-a8aa-e0a31dbc0562" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" openResultsInEditor="true" userTempatePath="" />
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="E:\projects\itmo-sem6\tpo1\htmlReport" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/sin/src/main/java/su/arlet/SinCalculator.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2eyI3vl7VPjYbyD6GFMhNEwiIv7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.ArturTest.executor": "Run",
+    "Gradle.Build tpo1.executor": "Run",
+    "Gradle.EnvironmentTest.executor": "Coverage",
+    "Gradle.EnvironmentTest.timeStepAtmosphereStatusAndMoonVisibilityCost.executor": "Run",
+    "Gradle.EnvironmentTest.timeStepFastChangingToNight.executor": "Run",
+    "Gradle.EnvironmentTest.timeStepFromDay.executor": "Run",
+    "Gradle.EnvironmentTest.timeStepFromDayToNight.executor": "Run",
+    "Gradle.EnvironmentTest.timeStepFromNightToDay.executor": "Run",
+    "Gradle.EnvironmentTest.timeStepFromPoorToVeryPoorVisibility.executor": "Run",
+    "Gradle.MergeSorterTest.executor": "Run",
+    "Gradle.MergeSorterTest.sortDuplicateElementsArray.executor": "Run",
+    "Gradle.MergeSorterTest.sortEmptyArray.executor": "Run",
+    "Gradle.MergeSorterTest.sortHalfCountElementsArray.executor": "Run",
+    "Gradle.MergeSorterTest.sortNullArray.executor": "Run",
+    "Gradle.MergeSorterTest.sortReverseSortedArray.executor": "Run",
+    "Gradle.MergeSorterTest.sortSomeDuplicateElementsArray.executor": "Run",
+    "Gradle.MergeSorterTest.sortSortedArray.executor": "Run",
+    "Gradle.MergeSorterTest.sortThreeElementsArray.executor": "Run",
+    "Gradle.MergeSorterTest.sortTwoElementsArray.executor": "Run",
+    "Gradle.SinCalculatorTest.calcHalfPI.executor": "Run",
+    "Gradle.SinCalculatorTest.calcLowerHalfPIValues.executor": "Run",
+    "Gradle.SinCalculatorTest.calcLowerQuarters.executor": "Run",
+    "Gradle.SinCalculatorTest.calcPIValues.executor": "Run",
+    "Gradle.SinCalculatorTest.calcUpperHalfPIValues.executor": "Run",
+    "Gradle.SinCalculatorTest.calcUpperQuarters.executor": "Run",
+    "Gradle.SinCalculatorTest.calcZero.executor": "Run",
+    "Gradle.SinCalculatorTest.executor": "Run",
+    "Gradle.Tests in 'tpo1.src.merge-sort'.executor": "Run",
+    "Gradle.Tests in 'tpo1.src.sin'.executor": "Run",
+    "Gradle.Tests in 'tpo1.src.story'.executor": "Run",
+    "Gradle.Tests in 'tpo1.src.story.test'.executor": "Run",
+    "Gradle.tpo1 [jar].executor": "Run",
+    "Gradle.tpo1:src:story [:src:story:Main.main()].executor": "Run",
+    "JUnit.Whole project.executor": "Coverage",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\projects\itmo-sem6\tpo1\src\main\java" />
+      <recent name="E:\projects\itmo-sem6\tpo1\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="su.arlet" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Tests in 'tpo1.src.merge-sort'">
+    <configuration name="EnvironmentTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":src:story:test" />
+            <option value="--tests" />
+            <option value="&quot;su.arlet.EnvironmentTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'tpo1.src.merge-sort'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":src:merge-sort:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'tpo1.src.sin'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":src:sin:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'tpo1.src.story.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":src:story:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Whole project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.EnvironmentTest" />
+      <item itemvalue="Gradle.Tests in 'tpo1.src.merge-sort'" />
+      <item itemvalue="Gradle.Tests in 'tpo1.src.sin'" />
+      <item itemvalue="Gradle.Tests in 'tpo1.src.story.test'" />
+      <item itemvalue="JUnit.Whole project" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'tpo1.src.merge-sort'" />
+        <item itemvalue="Gradle.Tests in 'tpo1.src.sin'" />
+        <item itemvalue="Gradle.Tests in 'tpo1.src.story.test'" />
+        <item itemvalue="JUnit.Whole project" />
+        <item itemvalue="Gradle.EnvironmentTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StandaloneScriptsStorage">
+    <option name="files">
+      <set>
+        <option value="$PROJECT_DIR$/src/sin/build.gradle.kts" />
+      </set>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2418c32e-6488-4e62-a8aa-e0a31dbc0562" name="Changes" comment="" />
+      <created>1712870197657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712870197657</updated>
+      <workItem from="1712870198607" duration="9671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tpo1$Tests_in__tpo1_src_sin_.ic" NAME="Tests in 'tpo1.src.sin' Coverage Results" MODIFIED="1712880846355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/tpo1$Tests_in__tpo1_src_merge_sort_.ic" NAME="Tests in 'tpo1.src.merge-sort' Coverage Results" MODIFIED="1712880854529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/tpo1$Tests_in__tpo1_src_story_test_.ic" NAME="Tests in 'tpo1.src.story.test' Coverage Results" MODIFIED="1712880826841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/tpo1$Whole_project.ic" NAME="Whole project Coverage Results" MODIFIED="1712880772095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/tpo1$EnvironmentTest.ic" NAME="EnvironmentTest Coverage Results" MODIFIED="1712880618153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

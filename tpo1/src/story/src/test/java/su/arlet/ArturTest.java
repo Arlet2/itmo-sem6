@@ -90,4 +90,17 @@ class ArturTest {
         assertEquals(expectedArturCollapsed, artur.isCollapsedWithSomebody());
         assertEquals(expectedOldManCollapsed, oldMan.isCollapsedWithSomebody());
     }
+
+    @Test
+    void walkWithEmptyObstacles() {
+        var env = new Environment(new Obstacle[]{});
+        env.setVisibility(Visibility.POOR);
+
+        var artur = new Artur(env);
+        var expectedArturCollapsed = false;
+
+        artur.walk();
+
+        assertEquals(expectedArturCollapsed, artur.isCollapsedWithSomebody());
+    }
 }

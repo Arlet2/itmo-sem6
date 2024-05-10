@@ -11,13 +11,14 @@ public class MainPage {
     @FindBy(xpath = "//*[@id=\"block-yui_3_17_2_1_1563245658595_11842\"]/div/div/h1/strong")
     private WebElement title;
 
-    @FindBy(xpath = "/html/body/div/div/div[2]/div/div[1]/div/div[2]/div/div/div/div[5]/div/div/a")
+    @FindBy(xpath = "//a[@href=\"https://www.engage.co/engage-features\"" +
+            "and contains(@class, \"sqs-block-button-element--small\")]")
     private WebElement learnMoreButton;
 
     @FindBy(xpath = "//*[@id=\"block-yui_3_17_2_1_1643315368946_28759\"]/div/div/h1/strong")
     private WebElement searchTitle;
 
-    @FindBy(xpath = "//*[@id=\"tbp_website\"]")
+    @FindBy(xpath = "//form[@action=\"http://console.engage.co/toolbar_preview\"]/input[@name=\"u\"]")
     private WebElement searchEntry;
 
     @FindBy(xpath = "//*[@id=\"tbp_submit\"]")
@@ -28,7 +29,7 @@ public class MainPage {
 
     public WebDriver webDriver;
 
-    public MainPage(WebDriver webDriver){
+    public MainPage(WebDriver webDriver) {
         PageFactory.initElements(webDriver, this);
         this.webDriver = webDriver;
     }

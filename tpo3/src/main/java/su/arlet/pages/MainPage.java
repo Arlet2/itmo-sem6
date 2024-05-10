@@ -8,22 +8,22 @@ import org.openqa.selenium.support.PageFactory;
 
 @Getter
 public class MainPage {
-    @FindBy(xpath = "/html/body/div/div/div[2]/div/div[1]/div/div[1]/div/div/div/div[2]/div/div/h1/strong")
+    @FindBy(xpath = "//*[@id=\"block-yui_3_17_2_1_1563245658595_11842\"]/div/div/h1/strong")
     private WebElement title;
 
     @FindBy(xpath = "/html/body/div/div/div[2]/div/div[1]/div/div[2]/div/div/div/div[5]/div/div/a")
     private WebElement learnMoreButton;
 
-    @FindBy(xpath = "/html/body/div/div/div[2]/div/div[1]/div/div[2]/div/div/div/div[23]/div/div/h1/strong")
+    @FindBy(xpath = "//*[@id=\"block-yui_3_17_2_1_1643315368946_28759\"]/div/div/h1/strong")
     private WebElement searchTitle;
 
-    @FindBy(xpath = "/html/body/div/div/div[2]/div/div[1]/div/div[2]/div/div/div/div[24]/div/form/input[1]")
+    @FindBy(xpath = "//*[@id=\"tbp_website\"]")
     private WebElement searchEntry;
 
-    @FindBy(xpath = "/html/body/div/div/div[2]/div/div[1]/div/div[2]/div/div/div/div[24]/div/form/input[2]")
+    @FindBy(xpath = "//*[@id=\"tbp_submit\"]")
     private WebElement searchButton;
 
-    @FindBy(xpath = "/html/body/div/div/div[1]/div/div[1]/div/nav/ul/li[5]/a")
+    @FindBy(xpath = "//*[@id=\"main-navigation\"]/ul/li[5]/a")
     private WebElement trialButton;
 
     public WebDriver webDriver;

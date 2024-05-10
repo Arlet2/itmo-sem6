@@ -42,9 +42,9 @@ public class TrialTest {
     public void checkFormLabels() {
         var expectedFirstNameLabel = "First Name";
         var expectedLastNameLabel = "Last Name";
-        var expectedCompanyLabel = "Company\n(required)";
-        var expectedEmailAddressLabel = "Email Address\n(required)";
-        var expectedAvailabilityLabel = "Availability\n(required)";
+        var expectedCompanyLabel = "Company";
+        var expectedEmailAddressLabel = "Email Address";
+        var expectedAvailabilityLabel = "Availability";
 
         assertEquals(expectedFirstNameLabel, trialPage.getFirstNameLabel().getText());
         assertEquals(expectedLastNameLabel, trialPage.getLastNameLabel().getText());

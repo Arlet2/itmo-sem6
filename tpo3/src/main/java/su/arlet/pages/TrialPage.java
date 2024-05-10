@@ -8,37 +8,37 @@ import org.openqa.selenium.support.PageFactory;
 
 @Getter
 public class TrialPage {
-    @FindBy(xpath = "/html/body/div/div/div[2]/div/div[1]/div/div[2]/div/div[2]/div/div[3]/div[2]/div[3]/div/div[2]/form/div[2]/fieldset/div[1]")
+    @FindBy(xpath = "//*[@id=\"name-yui_3_17_2_3_1498059440404_5852\"]/div[1]/label/div/div")
     private WebElement firstNameLabel;
 
     @FindBy(xpath = "//*[@id=\"name-yui_3_17_2_3_1498059440404_5852-fname-field\"]")
     private WebElement firstNameEntry;
 
-    @FindBy(xpath = "/html/body/div/div/div[2]/div/div[1]/div/div[2]/div/div[2]/div/div[3]/div[2]/div[3]/div/div[2]/form/div[2]/fieldset/div[2]")
+    @FindBy(xpath = "//*[@id=\"name-yui_3_17_2_3_1498059440404_5852\"]/div[2]/label/div/div")
     private WebElement lastNameLabel;
 
-    @FindBy(xpath = "/html/body/div/div/div[2]/div/div[1]/div/div[2]/div/div[2]/div/div[3]/div[2]/div[3]/div/div[2]/form/div[2]/fieldset/div[2]/input")
+    @FindBy(xpath = "//*[@id=\"name-yui_3_17_2_3_1498059440404_5852-lname-field\"]")
     private WebElement lastNameEntry;
 
-    @FindBy(xpath = "/html/body/div/div/div[2]/div/div[1]/div/div[2]/div/div[2]/div/div[3]/div[2]/div[3]/div/div[2]/form/div[2]/div[1]")
+    @FindBy(xpath = "//*[@id=\"text-yui_3_17_2_1_1498059440404_48339\"]/label/div/div/span[1]")
     private WebElement companyLabel;
 
-    @FindBy(xpath = "/html/body/div/div/div[2]/div/div[1]/div/div[2]/div/div[2]/div/div[3]/div[2]/div[3]/div/div[2]/form/div[2]/div[1]/input")
+    @FindBy(xpath = "//*[@id=\"text-yui_3_17_2_1_1498059440404_48339-field\"]")
     private WebElement companyEntry;
 
-    @FindBy(xpath = "/html/body/div/div/div[2]/div/div[1]/div/div[2]/div/div[2]/div/div[3]/div[2]/div[3]/div/div[2]/form/div[2]/div[2]")
+    @FindBy(xpath = "//*[@id=\"email-yui_3_17_2_3_1498059440404_5853\"]/label/div/div/span[1]")
     private WebElement emailAddressLabel;
 
-    @FindBy(xpath = "/html/body/div/div/div[2]/div/div[1]/div/div[2]/div/div[2]/div/div[3]/div[2]/div[3]/div/div[2]/form/div[2]/div[2]/input")
+    @FindBy(xpath = "//*[@id=\"email-yui_3_17_2_3_1498059440404_5853-field\"]")
     private WebElement emailAddressEntry;
 
-    @FindBy(xpath = "/html/body/div/div/div[2]/div/div[1]/div/div[2]/div/div[2]/div/div[3]/div[2]/div[3]/div/div[2]/form/div[2]/div[3]")
+    @FindBy(xpath = "//*[@id=\"textarea-yui_3_17_2_3_1498059440404_5855\"]/label/div/div/span[1]")
     private WebElement availabilityLabel;
 
-    @FindBy(xpath = "/html/body/div/div/div[2]/div/div[1]/div/div[2]/div/div[2]/div/div[3]/div[2]/div[3]/div/div[2]/form/div[2]/div[3]/textarea")
+    @FindBy(xpath = "//*[@id=\"textarea-yui_3_17_2_3_1498059440404_5855-field\"]")
     private WebElement availabilityEntry;
 
-    @FindBy(xpath = "/html/body/div/div/div[2]/div/div[1]/div/div[2]/div/div[2]/div/div[3]/div[2]/div[3]/div/div[2]/form/div[3]/button")
+    @FindBy(xpath = "//*[@id=\"block-yui_3_17_2_3_1498059440404_5847\"]/div/div[2]/form/div[3]/button")
     private WebElement submitButton;
 
     @FindBy(xpath = "/html/body/div/div/div[2]/div/div[1]/div/div[2]/div/div[2]/div/div[3]/div[2]/div[3]/div/div[2]/form/div[1]/div/div/p")
